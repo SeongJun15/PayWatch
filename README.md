@@ -20,10 +20,29 @@ PayWatch is a Chrome extension that displays how much money you're earning every
 - **Clean interface**: Modern, minimal design
 - **Auto dark mode**: Automatically matches your system theme
 
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td><img src="screenshots/light-mode.png" alt="Light Mode" width="300"/></td>
+    <td><img src="screenshots/dark-mode.png" alt="Dark Mode" width="300"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Light Mode</b></td>
+    <td align="center"><b>Dark Mode</b></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="screenshots/settings-page.png" alt="Settings Page" width="600"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><b>Settings Page</b></td>
+  </tr>
+</table>
+
 ## 🚀 Installation
 
 ### From Chrome Web Store
-1. Visit the [Chrome Web Store page](#) (Coming soon!)
+1. Visit the [Chrome Web Store page](https://chrome.google.com/webstore) (Search for "PayWatch")
 2. Click "Add to Chrome"
 3. Click "Add extension" in the popup
 
@@ -71,7 +90,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 💡 Support
 
-If you encounter any issues or have suggestions, please open an issue on GitHub.
+If you encounter any issues or have suggestions, please open an issue on [GitHub](https://github.com/SeongJun15/PayWatch/issues).
 
 ---
 

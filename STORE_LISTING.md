@@ -57,7 +57,7 @@ Required to save your salary settings, work schedule, and preferences locally on
 salary, counter, earnings, money, work, timer, tracking, productivity, wage, income
 
 ## Support URL
-(Add your GitHub repository URL here)
+https://github.com/SeongJun15/PayWatch
 
 ## Screenshots Needed
 1. Main popup showing real-time counter

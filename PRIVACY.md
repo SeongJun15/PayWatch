@@ -45,7 +45,7 @@ We may update this privacy policy from time to time. We will notify you of any c
 
 ## Contact
 
-If you have any questions about this privacy policy, please open an issue on our GitHub repository.
+If you have any questions about this privacy policy, please open an issue on our [GitHub repository](https://github.com/SeongJun15/PayWatch/issues).
 
 ## Your Rights
 
