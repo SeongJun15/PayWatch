@@ -1,0 +1,95 @@
+{
+    "appName": {
+        "message": "PayWatch - 실시간 연봉/월급 계산기 (동기부여 타이머)"
+    },
+    "appDesc": {
+        "message": "일하는 매 순간 내 돈이 불어난다! 연봉/월급을 입력하고 초당 벌어들이는 수익을 실시간으로 확인하세요."
+    },
+    "statusActive": {
+        "message": "급여 적립 중"
+    },
+    "statusInactive": {
+        "message": "퇴근"
+    },
+    "todayTotal": {
+        "message": "오늘의 급여"
+    },
+    "optionsTitle": {
+        "message": "PayWatch 설정"
+    },
+    "salaryType": {
+        "message": "급여 형태"
+    },
+    "yearly": {
+        "message": "연봉"
+    },
+    "monthly": {
+        "message": "월급"
+    },
+    "salaryAmount": {
+        "message": "금액"
+    },
+    "currency": {
+        "message": "통화"
+    },
+    "workHours": {
+        "message": "근무 시간"
+    },
+    "language": {
+        "message": "언어"
+    },
+    "save": {
+        "message": "설정 저장"
+    },
+    "settingsSaved": {
+        "message": "설정이 저장되었습니다!"
+    },
+    "settings": {
+        "message": "설정"
+    },
+    "workDays": {
+        "message": "근무 요일"
+    },
+    "mon": {
+        "message": "월"
+    },
+    "tue": {
+        "message": "화"
+    },
+    "wed": {
+        "message": "수"
+    },
+    "thu": {
+        "message": "목"
+    },
+    "fri": {
+        "message": "금"
+    },
+    "sat": {
+        "message": "토"
+    },
+    "sun": {
+        "message": "일"
+    },
+    "overnightTip": {
+        "message": "* 종료 시간이 시작 시간보다 빠르면 다음날로 인식합니다 (예: 22:00 - 06:00)"
+    },
+    "manualMode": {
+        "message": "수동 근무 모드"
+    },
+    "decimalPlaces": {
+        "message": "소수점 자릿수"
+    },
+    "theme": {
+        "message": "테마"
+    },
+    "themeAuto": {
+        "message": "자동 (시스템)"
+    },
+    "themeLight": {
+        "message": "라이트 모드"
+    },
+    "themeDark": {
+        "message": "다크 모드"
+    }
+}

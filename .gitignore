@@ -1,0 +1,19 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Dependencies (if any)
+node_modules/
+
+# Build files (if any)
+dist/
+build/
+
+# Temporary files
+*.log
+*.tmp

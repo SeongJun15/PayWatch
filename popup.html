@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <header>
+    <h1 data-i18n="appName">PayWatch</h1>
+    <button id="openOptions" class="btn btn-icon" title="Settings">
+      <img src="images/settings-icon.png" alt="Settings">
+    </button>
+  </header>
+
+  <div class="card">
+    <div class="counter-wrapper">
+      <div class="manual-toggle-container">
+        <label class="switch">
+          <input type="checkbox" id="manualToggle">
+          <span class="slider"></span>
+        </label>
+        <span style="font-size: 0.85rem; color: var(--text-muted);" data-i18n="manualMode">Manual Mode</span>
+      </div>
+
+      <div id="statusBadge" class="status-badge">
+        <span data-i18n="statusActive">Earning Now</span>
+      </div>
+
+      <div class="money-display">
+        <span id="currencySymbol" class="currency-symbol">$</span>
+        <span id="moneyCounter">0.0000</span>
+      </div>
+
+      <div style="font-size: 0.85rem; color: var(--text-muted);">
+        <span data-i18n="todayTotal">Today's Total</span>
+      </div>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+
+</html>

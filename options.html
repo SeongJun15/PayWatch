@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title data-i18n="optionsTitle">PayWatch Settings</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body class="options-page">
+  <div class="container">
+    <div class="card" style="width: 100%; max-width: 500px;">
+      <h1 data-i18n="optionsTitle" style="margin-bottom: 2rem; text-align: center;">PayWatch Settings</h1>
+
+      <form id="settingsForm">
+        <div class="form-group">
+          <label data-i18n="salaryType">Salary Type</label>
+          <select id="salaryType">
+            <option value="yearly" data-i18n="yearly">Yearly Salary</option>
+            <option value="monthly" data-i18n="monthly">Monthly Salary</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label data-i18n="salaryAmount">Amount</label>
+          <input type="number" id="salaryAmount" min="0" step="1000" required>
+        </div>
+
+        <div class="form-group">
+          <label data-i18n="currency">Currency</label>
+          <select id="currency">
+            <option value="USD">USD ($)</option>
+            <option value="EUR">EUR (€)</option>
+            <option value="KRW">KRW (₩)</option>
+            <option value="JPY">JPY (¥)</option>
+            <option value="CNY">CNY (¥)</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label data-i18n="workDays">Working Days</label>
+          <div class="days-container">
+            <label class="day-checkbox"><input type="checkbox" name="workDay" value="1"><span><span
+                  data-i18n="mon">Mon</span></span></label>
+            <label class="day-checkbox"><input type="checkbox" name="workDay" value="2"><span><span
+                  data-i18n="tue">Tue</span></span></label>
+            <label class="day-checkbox"><input type="checkbox" name="workDay" value="3"><span><span
+                  data-i18n="wed">Wed</span></span></label>
+            <label class="day-checkbox"><input type="checkbox" name="workDay" value="4"><span><span
+                  data-i18n="thu">Thu</span></span></label>
+            <label class="day-checkbox"><input type="checkbox" name="workDay" value="5"><span><span
+                  data-i18n="fri">Fri</span></span></label>
+            <label class="day-checkbox"><input type="checkbox" name="workDay" value="6"><span><span
+                  data-i18n="sat">Sat</span></span></label>
+            <label class="day-checkbox"><input type="checkbox" name="workDay" value="0"><span><span
+                  data-i18n="sun">Sun</span></span></label>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label data-i18n="workHours">Work Hours</label>
+          <div style="display: flex; gap: 10px;">
+            <input type="time" id="workStart" required>
+            <span style="align-self: center;">-</span>
+            <input type="time" id="workEnd" required>
+          </div>
+          <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 4px;" data-i18n="overnightTip">
+            * End time can be next day (e.g. 22:00 - 06:00)
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label data-i18n="language">Language</label>
+          <select id="language">
+            <option value="en">English</option>
+            <option value="ko">한국어</option>
+            <option value="ja">日本語</option>
+          </select>
+        </div>
+
+        <div style="margin-top: 2rem; text-align: right;">
+          <button type="submit" class="btn btn-primary" data-i18n="save">Save Settings</button>
+        </div>
+      </form>
+      <div id="statusMessage" style="margin-top: 1rem; text-align: center; height: 1.5rem; font-size: 0.9rem;"></div>
+    </div>
+  </div>
+  <script src="options.js"></script>
+</body>
+
+</html>

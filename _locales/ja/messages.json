@@ -1,0 +1,95 @@
+{
+    "appName": {
+        "message": "PayWatch - リアルタイム給料カウンター"
+    },
+    "appDesc": {
+        "message": "働いている間、毎秒増えていく給料をリアルタイムで確認！モチベーションアップに最適なツールです。"
+    },
+    "statusActive": {
+        "message": "勤務中"
+    },
+    "statusInactive": {
+        "message": "退勤"
+    },
+    "todayTotal": {
+        "message": "今日の給与"
+    },
+    "optionsTitle": {
+        "message": "PayWatch 設定"
+    },
+    "salaryType": {
+        "message": "給与形態"
+    },
+    "yearly": {
+        "message": "年俸"
+    },
+    "monthly": {
+        "message": "月給"
+    },
+    "salaryAmount": {
+        "message": "金額"
+    },
+    "currency": {
+        "message": "通貨"
+    },
+    "workHours": {
+        "message": "勤務時間"
+    },
+    "language": {
+        "message": "言語"
+    },
+    "save": {
+        "message": "設定を保存"
+    },
+    "settingsSaved": {
+        "message": "設定が保存されました！"
+    },
+    "settings": {
+        "message": "設定"
+    },
+    "workDays": {
+        "message": "勤務曜日"
+    },
+    "mon": {
+        "message": "月"
+    },
+    "tue": {
+        "message": "火"
+    },
+    "wed": {
+        "message": "水"
+    },
+    "thu": {
+        "message": "木"
+    },
+    "fri": {
+        "message": "金"
+    },
+    "sat": {
+        "message": "土"
+    },
+    "sun": {
+        "message": "日"
+    },
+    "overnightTip": {
+        "message": "* 終了時間が開始時間より早い場合は翌日として認識されます (例: 22:00 - 06:00)"
+    },
+    "manualMode": {
+        "message": "手動勤務モード"
+    },
+    "decimalPlaces": {
+        "message": "小数点以下の桁数"
+    },
+    "theme": {
+        "message": "テーマ"
+    },
+    "themeAuto": {
+        "message": "自動 (システム)"
+    },
+    "themeLight": {
+        "message": "ライトモード"
+    },
+    "themeDark": {
+        "message": "ダークモード"
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "appName": {
+        "message": "PayWatch - Real-Time Salary Counter"
+    },
+    "appDesc": {
+        "message": "Track your earnings per second as you work. The best motivation tool for your browser."
+    },
+    "statusActive": {
+        "message": "Earning Now"
+    },
+    "statusInactive": {
+        "message": "Off Work"
+    },
+    "todayTotal": {
+        "message": "Today's Total"
+    },
+    "optionsTitle": {
+        "message": "PayWatch Settings"
+    },
+    "salaryType": {
+        "message": "Salary Type"
+    },
+    "yearly": {
+        "message": "Yearly Salary"
+    },
+    "monthly": {
+        "message": "Monthly Salary"
+    },
+    "salaryAmount": {
+        "message": "Amount"
+    },
+    "currency": {
+        "message": "Currency"
+    },
+    "workHours": {
+        "message": "Work Hours"
+    },
+    "language": {
+        "message": "Language"
+    },
+    "save": {
+        "message": "Save Settings"
+    },
+    "settingsSaved": {
+        "message": "Settings saved!"
+    },
+    "settings": {
+        "message": "Settings"
+    },
+    "workDays": {
+        "message": "Working Days"
+    },
+    "mon": {
+        "message": "Mon"
+    },
+    "tue": {
+        "message": "Tue"
+    },
+    "wed": {
+        "message": "Wed"
+    },
+    "thu": {
+        "message": "Thu"
+    },
+    "fri": {
+        "message": "Fri"
+    },
+    "sat": {
+        "message": "Sat"
+    },
+    "sun": {
+        "message": "Sun"
+    },
+    "overnightTip": {
+        "message": "* End time can be next day (e.g. 22:00 - 06:00)"
+    },
+    "manualMode": {
+        "message": "Manual Mode"
+    },
+    "decimalPlaces": {
+        "message": "Decimal Places"
+    },
+    "theme": {
+        "message": "Theme"
+    },
+    "themeAuto": {
+        "message": "Auto (System)"
+    },
+    "themeLight": {
+        "message": "Light"
+    },
+    "themeDark": {
+        "message": "Dark"
+    }
+}
