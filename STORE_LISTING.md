@@ -3,6 +3,9 @@
 ## Extension Name
 PayWatch
 
+## Version
+1.0.0
+
 ## Short Description (132 characters max)
 Real-time salary counter showing how much you earn per second. Track your earnings as you work!
 
@@ -42,6 +45,7 @@ Productivity
 
 ## Language
 English (with Korean and Japanese support)
+Default Locale: en
 
 ## Privacy Practices
 - Does not collect user data
@@ -80,12 +84,12 @@ https://github.com/SeongJun15/PayWatch
 - [x] Clear, accurate description
 - [x] Privacy policy
 - [x] All required icons (16, 48, 128)
-- [ ] At least one screenshot
+- [x] At least one screenshot
 - [x] Minimal permissions (storage only)
 
 ### Recommended
 - [x] README.md
-- [ ] Multiple screenshots showing features
+- [x] Multiple screenshots showing features
 - [ ] Promotional images
 - [ ] Video (optional)
 - [x] Support URL/GitHub
