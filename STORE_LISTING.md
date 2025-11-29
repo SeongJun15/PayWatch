@@ -90,7 +90,7 @@ https://github.com/SeongJun15/PayWatch
 ### Recommended
 - [x] README.md
 - [x] Multiple screenshots showing features
-- [ ] Promotional images
+- [x] Promotional images
 - [ ] Video (optional)
 - [x] Support URL/GitHub
 
