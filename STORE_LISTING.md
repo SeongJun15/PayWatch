@@ -3,6 +3,9 @@
 ## Extension Name
 PayWatch
 
+## Store URL
+https://chromewebstore.google.com/detail/paywatch-real-time-salary/afeoioicnlnkkflpinekfilkglbmjcpe?hl=ko
+
 ## Version
 1.0.0
 

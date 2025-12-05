@@ -42,7 +42,7 @@ PayWatch is a Chrome extension that displays how much money you're earning every
 ## 🚀 Installation
 
 ### From Chrome Web Store
-1. Visit the [Chrome Web Store page](https://chrome.google.com/webstore) (Search for "PayWatch")
+1. Visit the [PayWatch Chrome Web Store page](https://chromewebstore.google.com/detail/paywatch-real-time-salary/afeoioicnlnkkflpinekfilkglbmjcpe?hl=ko)
 2. Click "Add to Chrome"
 3. Click "Add extension" in the popup
 
