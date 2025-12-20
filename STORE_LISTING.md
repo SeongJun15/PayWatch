@@ -7,7 +7,7 @@ PayWatch
 https://chromewebstore.google.com/detail/paywatch-real-time-salary/afeoioicnlnkkflpinekfilkglbmjcpe?hl=ko
 
 ## Version
-1.0.0
+1.0.1
 
 ## Short Description (132 characters max)
 Real-time salary counter showing how much you earn per second. Track your earnings as you work!

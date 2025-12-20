@@ -22,6 +22,10 @@
     --text-muted: #94a3b8;
     --border-color: #334155;
   }
+
+  .btn-icon img {
+    filter: invert(1);
+  }
 }
 
 * {
